@@ -1,0 +1,2 @@
+# RecycleviewChoice
+Recycleview原生控件不使用radiobutton的单选多选等小功能
